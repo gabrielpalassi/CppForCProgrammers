@@ -1,4 +1,4 @@
-// Sums all numbers up to "N" (not included)
+// Sums all numbers up to "n" (not included)
 
 
 // Includes & Namespace
